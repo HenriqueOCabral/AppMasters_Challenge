@@ -1,4 +1,4 @@
-#Projeto da App Masters para o frontend
+# Projeto da App Masters para o frontend
 
 - Testando minhas habilidades em situação competitiva, nunca havia utilizado nextjs com typescript... acabou o tempo e não concluí tudo o que era necessário à tarefa.
 
@@ -6,7 +6,7 @@
 
 - Site da AppMasters <a href="http://www.appmasters.io/">(abrir)</a>
 
-#App Masters project frontend
+# App Masters project frontend
 
 - First time ever using nextjs with typescript, testing my skiils and problem solving capability... but, ran out of time and didn't suceeded.
 
