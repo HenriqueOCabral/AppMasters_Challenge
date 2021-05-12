@@ -1,3 +1,13 @@
+#Projeto da App Masters para o frontend
+
+- Testando minhas habilidades em situação competitiva, nunca havia utilizado nextjs com typescript... acabou o tempo e não concluí tudo o que era necessário à tarefa.
+
+- Experiência nova e bastante pesquisa com typescript neste repositório.
+
+- Site da AppMasters <a href="http://www.appmasters.io/">(abrir)</a>
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
