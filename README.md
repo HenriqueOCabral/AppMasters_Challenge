@@ -6,7 +6,13 @@
 
 - Site da AppMasters <a href="http://www.appmasters.io/">(abrir)</a>
 
+#App Masters project frontend
 
+- First time ever using nextjs with typescript, testing my skiils and problem solving capability... but, ran out of time and didn't suceeded.
+
+- Lots of searching on typescript.
+
+- AppMasters website <a href="http://www.appmasters.io/">(open)</a>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
